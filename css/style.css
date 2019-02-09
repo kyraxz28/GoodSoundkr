@@ -1,0 +1,26 @@
+body{
+	background-image: url('../img/background.jpg');
+	background-size: cover;
+}
+
+#con-btn-play{
+	text-align: right;
+	color:#eee;
+	font-size: 40pt;
+	position: fixed;
+	top: 100px;
+
+}
+
+.spectro{
+
+	width: 1350px;
+	height: 250px;
+	
+}
+
+
+#player{
+	text-decoration: none;
+	
+}
